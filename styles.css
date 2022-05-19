@@ -1,0 +1,10 @@
+/* CSS */
+.jumbotron, .cards, .nav 
+{
+    background-color: #80a7ce;
+    
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    
+    text-align: center;
+}
