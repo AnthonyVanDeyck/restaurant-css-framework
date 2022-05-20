@@ -20,3 +20,8 @@ p
     margin-top: 1vh;
     margin-left: 1vh;
 }
+
+body
+{
+    overflow-x: hidden;
+}
