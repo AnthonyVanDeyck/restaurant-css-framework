@@ -1,13 +1,5 @@
 = Restaurant
 
-Type of challenge: *consolidation* +
-Repository: *restaurant-css-framework* +
-Duration: *4 day* +
-Deadline: 23/05/22 - 09:00 +
-Form: https://forms.gle/nmgJrVjm7pzMAbpe6 +
-Team challenge: *solo*
-
-
 == Missions objectives
 
 At the end of this challenge you should have improved your:
@@ -60,21 +52,3 @@ make it as beautiful as possible.
 . Read the instructions well.
 . Take time to prepare (prototype, content, pictures, ...).
 . Go step by step, *HTML*, then *classes* and *id* and finally *CSS*.
-
-=== Optional
-
-* use *SASS*
-
-=== Resources
-
-* https://tinyurl.com/y2nlxere[README]
-* http://glyphicons.com/[glyphicons]
-
-
-== Congrats
-
-Well done, you've finished a website in four days. It might not have fancy
-animation yet, but you can pat yourself on the back you're already able to
-produce such a result.
-
-image::https://media.giphy.com/media/12jMgbVwJRQ0ms/giphy.gif[]
